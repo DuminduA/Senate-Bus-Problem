@@ -17,6 +17,7 @@ Riders come late cannot enter the waiting area or Board the bus. They have to wa
 
 Then All the busses will arrive
 
-After all the busses departed process will terminate and there will be some waiting riders who cannot
-get in to a bus.
+After all the busses departed process will terminate
+
+There may be some waiting riders left out who cannot get in to a bus.
 
